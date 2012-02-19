@@ -1,0 +1,4 @@
+=htorm
+A Ruby ORM for hypertable DB
+
+IT IS CURRENTLY USELESS
